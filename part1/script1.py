@@ -1,5 +1,5 @@
 import re
-from pg_sample_texts import DIV_COMM, MAG_CART
+from pg_sample_texts import DIV_COMM, MAG_CART, BOOK_MOR
  
 documents = [DIV_COMM, MAG_CART]
  
